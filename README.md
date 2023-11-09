@@ -18,7 +18,7 @@ StringShorten is a Python package that provides a simple utility for shortening 
 You can install StringShorten using pip:
 
 ```bash
-pip install stringShorten
+pip install shorten-text
 ```
 ## Usage
 ```python
